@@ -6,7 +6,7 @@ col 18		Source ID
 col 19		Tailbouy / Other ID
 col 20-25	Point number (right justified)
 col 26-35	Latitude dms n/s
-col	36-46	Longitude dms n/s
+col 36-46	Longitude dms n/s
 col 47-55	Map grid easting (si units)
 col 56-64	Map grid northing (si units)
 col 65-70	Water depth (datum defined in H1700), (si units)
